@@ -1,6 +1,5 @@
 # 🚀 Mars Cave AI
 ## AI Navigation for Underground Space Missions
-![views](https://komarev.com/ghpvc/?username=Azazokcreator&mars-cave-ai&color=brightgreen)
 ---
 
 ##  Описание проекта
@@ -196,4 +195,5 @@ pip install -r requirements.txt
 Run AI Monitor
 
 python cave_ai_monitor.py
+
 

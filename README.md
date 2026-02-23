@@ -1,6 +1,6 @@
 # 🚀 Mars Cave AI
 ## AI Navigation for Underground Space Missions
-
+![views](https://komarev.com/ghpvc/?username=Azazokcreator&mars-cave-ai&color=brightgreen)
 ---
 
 ##  Описание проекта
@@ -23,7 +23,7 @@ The system demonstrates a full AI pipeline:
 
 ---
 
-# 🌌 Проблема / Problem
+# Проблема / Problem
 
 ## 
 
@@ -59,7 +59,7 @@ Challenges:
 
 ---
 
-# 💡 Решение / Solution
+# Решение / Solution
 
 ## 
 
@@ -109,7 +109,7 @@ Mars Cave AI is an AI navigation module that:
 
 ---
 
-# 🧠 Как работает система / System Workflow
+# Как работает система / System Workflow
 
 
 ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → Robot
@@ -117,7 +117,7 @@ ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → 
 
 ---
 
-# 🎮 Команды управления / Control Commands
+# Команды управления / Control Commands
 
 | Command | Action |
 |--------|--------|
@@ -131,7 +131,7 @@ ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → 
 
 ---
 
-# 🤖 Автопилот / Autopilot Logic
+# Автопилот / Autopilot Logic
 
 ## 
 
@@ -187,7 +187,7 @@ Algorithm:
 
 ---
 
-# ▶️ Запуск / Getting Started
+# Запуск / Getting Started
 
 ## Installation
 
@@ -196,3 +196,4 @@ pip install -r requirements.txt
 Run AI Monitor
 
 python cave_ai_monitor.py
+

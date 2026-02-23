@@ -154,7 +154,7 @@ Algorithm:
 
 ---
 
-# 🛰️ Космическое применение / Space Applications
+# Космическое применение / Space Applications
 
 ## 
 
@@ -174,7 +174,7 @@ Algorithm:
 
 ---
 
-# 🛠️ Технологический стек / Technology Stack
+# Технологический стек / Technology Stack
 
 - Python
 - PyTorch
@@ -195,5 +195,6 @@ pip install -r requirements.txt
 Run AI Monitor
 
 python cave_ai_monitor.py
+
 
 

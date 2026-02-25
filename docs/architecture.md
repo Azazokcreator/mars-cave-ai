@@ -1,12 +1,8 @@
-\# Архитектура системы Mars Cave AI
-
-
+# Архитектура системы Mars Cave AI
 
 ---
 
-
-
-\## Общая концепция
+## Общая концепция
 
 
 
@@ -26,9 +22,7 @@ Mars Cave AI — это программно-аппаратная система
 
 ---
 
-
-
-\## Общий pipeline системы
+## Общий pipeline системы
 
 
 
@@ -43,8 +37,6 @@ Mars Cave AI — это программно-аппаратная система
 Источник:
 
 ESP32-CAM
-
-
 
 Функция:
 
@@ -173,8 +165,7 @@ ESP32-CAM → WiFi → Laptop → Neural Network → Decision Logic → BLE → 
 ---
 
 
-
-\## Преимущества архитектуры
+## Преимущества архитектуры
 
 
 
@@ -191,7 +182,7 @@ ESP32-CAM → WiFi → Laptop → Neural Network → Decision Logic → BLE → 
 
 
 
-\# System Architecture — Mars Cave AI
+# System Architecture — Mars Cave AI
 
 
 
@@ -199,7 +190,7 @@ ESP32-CAM → WiFi → Laptop → Neural Network → Decision Logic → BLE → 
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -222,4 +213,5 @@ Pipeline
 
 
 ESP32-CAM → WiFi → Laptop → Neural Network → Decision Logic → BLE → Robot
+
 

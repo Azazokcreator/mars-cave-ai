@@ -3,7 +3,7 @@
 
 ---
 
-# 🇷🇺 Инструкция по установке и запуску
+# Инструкция по установке и запуску
 
 ## 1️⃣ Требования
 
@@ -132,7 +132,7 @@ python src/pc/cave_ai_monitor.py
 
 ---
 
-## 🎮 Управление
+##  Управление
 
 W — вперед
 S — назад
@@ -144,7 +144,7 @@ Q — выход
 
 ---
 
-## ⚠️ Возможные ошибки
+## Возможные ошибки
 
 ### BLE не подключается
 
@@ -273,7 +273,7 @@ python src/pc/cave_ai_monitor.py
 
 ---
 
-## 🎮 Controls
+## Controls
 
 W — forward
 S — backward
@@ -285,13 +285,14 @@ Q — quit
 
 ---
 
-# ✅ System Ready
+# System Ready
 
 If everything is configured correctly, the system should:
 
 * display real-time segmentation
 * respond to manual commands
 * operate in autopilot mode
+
 
 
 

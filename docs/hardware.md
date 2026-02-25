@@ -1,4 +1,4 @@
-\# Аппаратная часть
+# Аппаратная часть
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## Камера
+## Камера
 
 
 
@@ -27,7 +27,7 @@ ESP32-CAM
 
 
 
-\## Робот
+## Робот
 
 
 
@@ -73,7 +73,7 @@ BLE
 
 
 
-\# Hardware
+# Hardware
 
 
 
@@ -82,4 +82,5 @@ Camera: ESP32-CAM
 Robot: LEGO SPIKE Prime
 
 Communication: BLE commands.
+
 

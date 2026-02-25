@@ -17,7 +17,7 @@
 
 ---
 
-## ⚙️ Оборудование
+## Оборудование
 
 ### Роботическая платформа
 
@@ -241,4 +241,5 @@ The system can be adapted for:
 
 - Mars lava tubes exploration
 - lunar cave missions
+
 - underground planetary robotics

@@ -1,0 +1,15 @@
+# Core
+numpy>=1.23
+opencv-python>=4.8
+Pillow
+
+# Deep Learning (inference only)
+torch>=2.0
+torchvision>=0.15
+segmentation-models-pytorch>=0.3.3
+
+# BLE communication
+bleak>=0.20
+
+# Utilities
+requests

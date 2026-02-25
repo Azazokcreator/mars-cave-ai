@@ -9,7 +9,7 @@
 **unet_safe_obstacle1.pth** → *https://drive.google.com/drive/folders/1Kk8PIlYy8znVffMW8rUNMkm53LjZ2R-z?usp=sharing*
 
 2) Создайте папку (если её нет):
-```bash
+
 mkdir models
 
 Поместите файл в:
@@ -45,4 +45,5 @@ Verify project structure:
 
 mars-cave-ai/
   models/
+
     unet_safe_obstacle1.pth

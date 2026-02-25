@@ -3,7 +3,7 @@
 
 ---
 
-## 🇷🇺 Описание проекта
+## Описание проекта
 
 Mars Cave AI — это система автономной навигации для роботов, предназначенных для исследования подземных объектов на Луне и Марсе: лавовых трубок, пещер и туннелей.
 
@@ -13,7 +13,7 @@ Mars Cave AI — это система автономной навигации �
 
 ---
 
-## 🇬🇧 Project Overview
+## Project Overview
 
 Mars Cave AI is an autonomous navigation system designed for robots exploring underground environments on the Moon and Mars, such as lava tubes, caves, and tunnels.
 
@@ -23,7 +23,7 @@ The system demonstrates a full AI pipeline:
 
 ---
 
-# 🌌 Проблема / Problem
+# Проблема / Problem
 
 ## 🇷🇺
 
@@ -42,7 +42,7 @@ The system demonstrates a full AI pipeline:
 
 ---
 
-## 🇬🇧
+## 
 
 Underground environments are critical for future space missions:
 
@@ -59,7 +59,7 @@ Challenges:
 
 ---
 
-# 💡 Решение / Solution
+# Решение / Solution
 
 ## 🇷🇺
 
@@ -83,7 +83,7 @@ Mars Cave AI is an AI navigation module that:
 
 ---
 
-# ⚙️ MVP Возможности / MVP Features
+# MVP Возможности / MVP Features
 
 ## 🇷🇺
 
@@ -109,7 +109,7 @@ Mars Cave AI is an AI navigation module that:
 
 ---
 
-# 🧠 Как работает система / System Workflow
+# Как работает система / System Workflow
 
 
 ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → Robot
@@ -117,7 +117,7 @@ ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → 
 
 ---
 
-# 🎮 Команды управления / Control Commands
+# Команды управления / Control Commands
 
 | Command | Action |
 |--------|--------|
@@ -144,7 +144,7 @@ ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → 
 
 ---
 
-## 🇬🇧
+## 
 
 Algorithm:
 
@@ -157,7 +157,7 @@ Algorithm:
 
 # 🛰️ Космическое применение / Space Applications
 
-## 🇷🇺
+## 
 
 - разведка лавовых трубок
 - исследование марсианских пещер
@@ -166,7 +166,7 @@ Algorithm:
 
 ---
 
-## 🇬🇧
+## 
 
 - lava tube exploration
 - Martian cave scouting
@@ -175,7 +175,7 @@ Algorithm:
 
 ---
 
-# 🛠️ Технологический стек / Technology Stack
+# Технологический стек / Technology Stack
 
 - Python
 - PyTorch
@@ -187,11 +187,12 @@ Algorithm:
 
 ---
 
-# ▶️ Запуск / Getting Started
+# Запуск / Getting Started
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
 Run AI Monitor
+
 python cave_ai_monitor.py

@@ -25,7 +25,7 @@ The system demonstrates a full AI pipeline:
 
 # Проблема / Problem
 
-## 🇷🇺
+## 
 
 Подземные пространства — ключевые объекты будущих космических миссий:
 
@@ -61,7 +61,7 @@ Challenges:
 
 # Решение / Solution
 
-## 🇷🇺
+## 
 
 Mars Cave AI — AI-модуль автономной навигации, который:
 
@@ -72,7 +72,7 @@ Mars Cave AI — AI-модуль автономной навигации, кот
 
 ---
 
-## 🇬🇧
+## 
 
 Mars Cave AI is an AI navigation module that:
 
@@ -85,7 +85,7 @@ Mars Cave AI is an AI navigation module that:
 
 # MVP Возможности / MVP Features
 
-## 🇷🇺
+## 
 
 - Live video с ESP32-CAM
 - Сегментация среды в реальном времени (U-Net)
@@ -97,7 +97,7 @@ Mars Cave AI is an AI navigation module that:
 
 ---
 
-## 🇬🇧
+## 
 
 - Live video from ESP32-CAM
 - Real-time environment segmentation (U-Net)
@@ -131,9 +131,9 @@ ESP32 Camera → PC → AI Segmentation → Safety Map → Decision → BLE → 
 
 ---
 
-# 🤖 Автопилот / Autopilot Logic
+# Автопилот / Autopilot Logic
 
-## 🇷🇺
+## 
 
 Алгоритм:
 
@@ -155,7 +155,7 @@ Algorithm:
 
 ---
 
-# 🛰️ Космическое применение / Space Applications
+#  Космическое применение / Space Applications
 
 ## 
 
@@ -196,3 +196,4 @@ pip install -r requirements.txt
 Run AI Monitor
 
 python cave_ai_monitor.py
+

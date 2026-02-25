@@ -1,5 +1,4 @@
 
-````markdown
 # Mars Cave AI — Installation & Setup Guide
 
 ---
@@ -293,6 +292,7 @@ If everything is configured correctly, the system should:
 * display real-time segmentation
 * respond to manual commands
 * operate in autopilot mode
+
 
 
 
